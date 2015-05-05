@@ -1,0 +1,15 @@
+---
+title: "GoogleVis"
+author: "Jan-Philipp Kolb"
+date: "5. Mai 2015"
+output: ioslides_presentation
+---
+
+
+## LaTeX bibliographystyle
+
+<http://de.wikibooks.org/wiki/LaTeX-W%C3%B6rterbuch:_bibliographystyle>
+
+## Intro to GoogleVis
+
+<https://github.com/mages>
