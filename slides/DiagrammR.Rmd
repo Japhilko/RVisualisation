@@ -1,0 +1,22 @@
+---
+title: "Graphics with Rstudio"
+author: "Jan-Philipp Kolb"
+date: "7. Mai 2015"
+output: ioslides_presentation
+---
+
+## Graphics with R
+
+<http://www.r-bloggers.com/rstudio-v0-99-preview-graphviz-and-diagrammer/>
+
+## DiagrammeR
+
+```{r,eval=F,echo=F}
+install.packages("DiagrammeR")
+library(DiagrammeR)
+devtools::install_github('rich-iannone/DiagrammeR')
+```
+
+
+
+<http://rich-iannone.github.io/DiagrammeR/>
