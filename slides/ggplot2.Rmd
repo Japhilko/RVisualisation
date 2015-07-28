@@ -45,3 +45,6 @@ qplot(displ,hwy,data=mpg,facets=.~drv)
 data(maacs)
 ```
 
+## Links
+
+- [Competition with ggplot2](http://blog.revolutionanalytics.com/2010/09/competition-data-visualization-with-ggplot2.html)
