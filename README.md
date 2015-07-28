@@ -1,9 +1,11 @@
-GeoData
+RVisualisations
 =======
 
-This repo encloses my research with R on visualisation.
+This repo encloses resources on visualisation.
 
 See some examples here:
+
+[Web application for ggplot2](http://www.stat.ucla.edu/~jeroen/live.html)
 
 <http://www.noamross.net/blog/2015/4/24/koontz-base-plotting.html>
 
