@@ -17,5 +17,7 @@ Video - introduction to ggplot2
 
 
 
+- [Getting to Know grid Graphics](https://www.stat.auckland.ac.nz/~paul/useR2015-grid/grid-slides.html)
+
 
 
